@@ -121,6 +121,14 @@ Acesse o console do banco H2 para ver os dados:
 
 ---
 
+### Importar coleção no Postman
+
+Você pode importar o arquivo da coleção Postman com todas as rotas da API REST.
+
+[Clique aqui para baixar](postman/PRJ_CRUD.postman_collection.json)
+
+---
+
 ### Desenvolvido por
 
 Ana Beatriz Martins Batista  
