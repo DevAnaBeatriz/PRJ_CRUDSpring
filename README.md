@@ -41,8 +41,8 @@ src/
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/DevAnaBeatriz/PRJ_CRUDSpring
-   cd seu-repo
+   git clone https://github.com/DevAnaBeatriz/PRJ_CRUDSpring.git
+   cd PRJ_CRUDSpring
    ```
 
 2. **Abra no Visual Studio Code ou IntelliJ.**
